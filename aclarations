@@ -1,0 +1,12 @@
+los esquemas los guarde en una carpeta aparte
+llamada models, solo para refactorizar el codigo
+
+para el segundo desafio en vez de agregar
+los atributos necesarios al modelo de user,
+opte por crear otro modelo para la imagen
+y enlazarla con el modelo user por medio de
+un atributo 'avatar', de este modo el usuario
+podra acceder a sus antiguos avatares y no solo
+al actual, puesto que no hay la opcion de borrar
+la imagen o el avatar, pues no se especifico en
+la practica
